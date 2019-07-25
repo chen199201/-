@@ -1,0 +1,138 @@
+.content {
+  margin: 0 auto;
+}
+.content .banner1 {
+  margin: 0 auto;
+  height: 556px;
+  background: url(../img/nav2_banner1.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner2 {
+  margin: 0 auto;
+  height: 640px;
+  background: url(../img/nav2_banner2.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner3 {
+  margin: 0 auto;
+  height: 630px;
+  background: url(../img/nav2_banner3.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner4 {
+  margin: 0 auto;
+  height: 611px;
+  background: url(../img/nav2_banner4.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner5 {
+  margin: 0 auto;
+  height: 576px;
+  background: url(../img/nav2_banner5.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner6 {
+  margin: 0 auto;
+  height: 1054px;
+}
+	.pb-carouselWarp {
+		    position: relative;
+		    height: 556px;
+		    overflow: hidden;
+		    margin-left: auto;
+		    margin-right: auto;
+		}
+		.banner6{
+			width: 100%;
+			display: flex;
+			align-content:flex-start;
+			justify-content: center;
+			flex-wrap: wrap;
+			background: #F7F7F7;
+		}
+		.banner3_title_en{
+			width: 100%;
+			font-size: 36px;
+			color: #010101;
+			padding-top: 70px;
+			text-align: center;
+		}
+		.banner3_title_zh{
+			width: 100%;
+			font-size: 24px;
+			color: #5A5A5A;
+			text-align: center;
+			margin: 20px 0 60px 0;
+		}
+		.banner3_al{
+			display: flex;
+			width: 1200px;
+			min-width: 1200px;
+			height: 410px;
+			flex-wrap: wrap;
+		}
+		.banner3_al li{
+			width: 270px;
+			height: 350px;
+			margin:0 40px 40px 0;
+			border-radius: 12px;
+			overflow: hidden;
+			box-shadow:0px 6px 10px 0px rgba(242,242,242,1);
+		}
+		.banner3_al li a{
+			position: relative;
+			display: inline-flex;
+			align-content: flex-start;
+			flex-wrap: wrap;
+			width: 100%;
+			height: 100%;
+		}
+		.banner3_al li a img {
+			width: 100%;
+			height: 260px;
+		}
+		.banner3_al li a u {
+			display: inline-flex;
+			justify-content: center;
+			width: 100%;
+			height: 90px;
+			line-height: 110px;
+			font-size: 18px;
+			color: #666666;
+			background: white;
+		}
+		.banner3_al li a span{
+			position: absolute;
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			width: 205px;
+			height: 70px;
+			background: #FFFFFF;
+			font-size: 30px;
+			color: #1A1A1A;
+			border-radius: 10px;
+			left: 33px;
+			bottom: 57px;
+			box-shadow:0px 6px 10px 0px rgba(242,242,242,1);
+		}
+		.banner3_al li:nth-child(4n){
+			margin-right: 0;
+		}
+		.about_us{
+			display: flex;
+			width: 100%;
+			justify-content: center;
+			margin-top: 40px;
+		}
+		.about_us a{
+			display: inline-flex;
+			width:170px;
+			height:40px;
+			align-items: center;
+			justify-content: center;
+			background:rgba(42,184,255,1);
+			border-radius:21px;
+			font-size:16px;
+			color: white;
+		}

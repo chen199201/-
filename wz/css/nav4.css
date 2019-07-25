@@ -1,0 +1,52 @@
+.content {
+  margin: 0 auto;
+}
+.content .banner1 {
+  margin: 0 auto;
+  height: 556px;
+  background: url(../img/nav4_banner1.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner2 {
+  margin: 0 auto;
+  height: 815px;
+  background: url(../img/nav4_banner2.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner3 {
+  margin: 0 auto;
+  height: 694px;
+  background: url(../img/nav4_banner3.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner4 {
+  margin: 0 auto;
+  height: 650px;
+  background: url(../img/nav4_banner4.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner5 {
+  margin: 0 auto;
+  height: 556px;
+  background: url(../img/nav4_banner5.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner6 {
+  margin: 0 auto;
+  height: 839px;
+  background: url(../img/nav4_banner6.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner7 {
+  margin: 0 auto;
+  height: 734px;
+  background: url(../img/nav4_banner7.png) no-repeat center center;
+  background-size: cover;
+}
+.pb-carouselWarp {
+		    position: relative;
+		    height: 556px;
+		    overflow: hidden;
+		    margin-left: auto;
+		    margin-right: auto;
+		}

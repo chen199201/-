@@ -1,0 +1,27 @@
+.content {
+  margin: 0 auto;
+}
+.content .banner1 {
+  margin: 0 auto;
+  height: 820px;
+  background: url(../img/banner1.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner2 {
+  margin: 0 auto;
+  height: 820px;
+  background: url(../img/banner2.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner3 {
+  margin: 0 auto;
+  height: 820px;
+  background: url(../img/banner3.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner4 {
+  margin: 0 auto;
+  height: 820px;
+  background: url(../img/banner4.png) no-repeat center center;
+  background-size: cover;
+}

@@ -1,0 +1,93 @@
+.container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+.container .header {
+  max-width: 1440px;
+  overflow: hidden;
+  padding: 20px 40px;
+  margin: 0 auto;
+}
+.container .header .logo {
+  width: 244px;
+  height: 56px;
+  float: left;
+}
+.container .header .logo img {
+  width: 100%;
+  height: 100%;
+}
+.container .header .nav {
+  float: right;
+}
+.container .header .nav li {
+  float: left;
+  list-style: none;
+  margin-left: 40px;
+  line-height: 56px;
+}
+.container .footer {
+  margin: 0 auto;
+  height: 340px;
+  background: url(../img/footer_bg.png) no-repeat center center;
+  background-size: cover;
+  position: relative;
+}
+.container .footer .footer_content {
+  margin: 0 auto;
+  max-width: 1440px;
+  overflow: hidden;
+  padding: 60px 200px 20px 200px;
+}
+.container .footer .footer_content .footer_left {
+  float: left;
+}
+.container .footer .footer_content .footer_left .footer_logo {
+  width: 244px;
+  height: 57px;
+  margin-bottom: 36px;
+}
+.container .footer .footer_content .footer_left .footer_logo img {
+  width: 100%;
+  height: 100%;
+}
+.container .footer .footer_content .footer_left .name {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+.container .footer .footer_content .footer_left .iphone,
+.container .footer .footer_content .footer_left .mail,
+.container .footer .footer_content .footer_left .address {
+  color: #fff;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.container .footer .footer_content .footer_right {
+  float: right;
+  margin-top: 30px;
+}
+.container .footer .footer_content .footer_right .footer_code {
+  width: 128px;
+  height: 128px;
+  margin-bottom: 16px;
+}
+.container .footer .footer_content .footer_right .footer_code img {
+  width: 100%;
+  height: 100%;
+}
+.container .footer .footer_content .footer_right p {
+  color: #fff;
+  font-size: 18px;
+}
+.container .footer .version {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #b3b3b3;
+  font-size: 16px;
+  text-align: center;
+  line-height: 48px;
+  background: rgba(0, 0, 0, 0.5);
+}

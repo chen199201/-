@@ -1,0 +1,40 @@
+.content {
+  margin: 0 auto;
+}
+.content .banner1 {
+  margin: 0 auto;
+  height: 556px;
+  /*background: url(../img/nav1_banner1.png) no-repeat center center;*/
+  background-size: cover;
+}
+.content .banner2 {
+  margin: 0 auto;
+  height: 629px;
+  background: url(../img/nav1_banner2.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner3 {
+  margin: 0 auto;
+  height: 606px;
+  background: url(../img/nav1_banner3.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner4 {
+  margin: 0 auto;
+  height: 607px;
+  background: url(../img/nav1_banner4.png) no-repeat center center;
+  background-size: cover;
+}
+.content .banner5 {
+  margin: 0 auto;
+  height: 727px;
+  background: url(../img/nav1_banner5.png) no-repeat center center;
+  background-size: cover;
+}
+	.pb-carouselWarp {
+		    position: relative;
+		    height: 629px; 
+		    overflow: hidden;
+		    margin-left: auto;
+		    margin-right: auto;
+		}
